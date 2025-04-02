@@ -20,5 +20,5 @@ Certificaciones
 .C++ Sena 
 
 Contacto
-Correo:sebastianvibr@gmail.com
+Correo: sebastianvibr@gmail.com
 Celular: +57 3233315933
