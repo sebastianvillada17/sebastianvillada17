@@ -1,7 +1,7 @@
 SEBASTIAN VILLADA BRAN - INGENIERO INFORMATICO
 
 Bienvenido a mi perfil de GitHub. Soy Sebastian Villada Bran, ingeniero en informatica con experiencia en desarrollo de software y optimizacion de soluciones tecnologicas.
-Actualmente estoy desarrollando aplicaiones empresariales, integrando tecnologias modernas oara optimizacion y rendimineto. Busco siempre aprender y mejorar mis habilidades, explorando nuevas herramientas y metodologias de desarrollo. 
+Actualmente estoy desarrollando aplicaiones empresariales, integrando tecnologias modernas para optimizacion y rendimiento. Busco siempre aprender y mejorar mis habilidades, explorando nuevas herramientas y metodologias de desarrollo. 
 
 Tecnologias y herramientas
 .Lenguajes: C#, Python, Java, C++, JavaScript, PHP, SQL
