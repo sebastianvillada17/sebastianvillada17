@@ -1,16 +1,24 @@
-## Hi there 👋
+SEBASTIAN VILLADA BRAN - INGENIERO INFORMATICO
 
-<!--
-**sebastianvillada17/sebastianvillada17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy Sebastian Villada Bran, ingeniero en informatica con experiencia en desarrollo de software y optimizacion de soluciones tecnologicas.
+Actualmente estoy desarrollando aplicaiones empresariales, integrando tecnologias modernas oara optimizacion y rendimineto. Busco siempre aprender y mejorar mis habilidades, explorando nuevas herramientas y metodologias de desarrollo. 
 
-Here are some ideas to get you started:
+Tecnologias y herramientas
+.Lenguajes: C#, Python, Java, C++, JavaScript, PHP, SQL
+.Desarrollo web: HTML, CSS, React, AJAX, MySQL
+.Bases de Datos: SQL Server
+.Frameworks: .NET, Flask, LINQ, Postman
+.Control de versiones: Git, GitHub, GitLab
+.Software: Visual Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certificaciones
+.Controles y seguridad informatica
+.Desarrollo web(HTML,CSS3,JS,AJAX,PHP,MySQL) Udemy
+.C# Udemy
+.Fundamentos de la nube AWS
+.React Platzi
+.C++ Sena 
+
+Contacto
+sebastianvibr@gmail.com
+3233315933
